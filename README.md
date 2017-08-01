@@ -6,6 +6,10 @@ In this lab, you'll start to deal with hashes that organize data more and more c
 
 For example, to print Zara's favorite book, you'd use the code `puts favorite_books[:zara]`.
 
+Open up iterate.rb, code out solutions to the challenges, and enter the command `ruby iterate.rb` in the console when you're ready to run it.
+
+### Tips, examples, & answers
+
 Iteration for a hash is really similar to iteration for an array. Here's an example:
 
 ```Ruby
